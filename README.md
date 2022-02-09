@@ -16,13 +16,17 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/arya-manjaramkar" target="blank"><img align="center" src="https://img.shields.io/badge/Krishnapal verma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="krishnapalverma2001@gmail.com" target="blank"><img align="center" src="https://iD14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="h\" target="blank"><img align="center" src="https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/krishnapalverma2001" target="blank"><img align="center" src="https://img.shields.io/badge/Krishnapal verma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="krishnapalverma2001@gmail.com" target="blank"><img align="center" src="https://iD14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="h\" target="blank"><img align="center" src="https://img.shields.io/badge/Krishna-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
   
 <Br>
 <hr>
 <Br>
 <h1 align="center">Skills I have! 🤸‍♂</h1>
+  <h1>C<h1>
+    <h1>C++<h1>
+      <h1>Python<h1>
+        <h1>Data Structure<h1>
 <Br>
   
 
